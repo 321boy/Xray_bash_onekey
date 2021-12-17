@@ -2914,9 +2914,10 @@ idleleo_commend() {
 menu() {
 
     echo -e "\nXray 安装管理脚本 ${Red}[${shell_version}]${Font} ${shell_need_update}"
-    echo -e "--- authored by 华人老王 ---"
-    echo -e "--- changed by 华人老王 ---"
-    echo -e "--- https://github.com/华人老王 ---\n"
+    echo -e "--- 作者华人老王 感谢原作者 paiy ---"
+    echo -e "--- 如无法运行请确保您看了华人老王操作教程 ---"
+    echo -e "--- 如果你有好的意见或者建议可以给老王提出来 ---"
+    echo -e "--- 支持伪装+免域名一键安装欢迎交流学习 ---\n"
     echo -e "当前模式: ${shell_mode}\n"
 
     echo -e "可以使用${RedW} idleleo ${Font}命令管理脚本${Font}\n"
